@@ -21,5 +21,3 @@ def bonus
   }
  
  end
-puts epic_tragedy
- 
